@@ -1,0 +1,584 @@
+[
+  {
+    "id": "c1",
+    "name": "Chef Rownak",
+    "specialty": "Bangladeshi cuisine",
+    "picture": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+    "bio": "Chef Rownak is a Bangladeshi chef who is known for her delicious and authentic Bangladeshi cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+    "likes": 1500,
+    "recipes": [
+      {
+        "id": "r1",
+        "name": "Chingri Bhorta",
+        "picture": "https://as1.ftcdn.net/v2/jpg/04/89/23/52/1000_F_489235273_eWvR6MwU2D9mOR3dI5DOURyplmLhTYuD.jpg",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add prawns, green chili, salt, and turmeric and cook for 3-4 minutes.\n3. Mash the prawns and mix with fried onions, chili, and coriander leaves.\n4. Serve with rice.",
+        "rating": 4.5,
+        "ingredients": [
+          {
+            "name": "Chingri (prawns)",
+            "quantity": "500g"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1 medium-sized"
+          },
+          {
+            "name": "Green chillies",
+            "quantity": "3-4"
+          },
+          {
+            "name": "Mustard oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "name": "Beef Rezala",
+        "picture": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370903.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add beef, ginger-garlic paste, and spices and cook for 5-7 minutes.\n3. Add yogurt and cook for another 10-15 minutes.\n4. Serve hot with rice or naan.",
+        "rating": 4.8,
+        "ingredients": [
+          {
+            "name": "Beef",
+            "quantity": "500g"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ghee",
+            "quantity": "2 tablespoons"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "name": "Chicken Roast",
+        "picture": "https://img.freepik.com/free-photo/delicious-chicken-table_144627-8761.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Marinate chicken with yogurt, spices, and lemon juice for 2-3 hours.\n2. Roast the chicken in the oven at 375°F for 45 minutes.\n3. Serve hot with vegetables and naan.",
+        "rating": 4.2,
+        "ingredients": [
+          {
+            "name": "Chicken",
+            "quantity": "1 whole"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "1 tablespoon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "name": "Hasan mahmud",
+    "specialty": "Bangladeshi cuisine",
+    "picture": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+    "bio": "Hasan mahmud is a Bangladeshi chef who is known for her delicious and authentic Bangladeshi cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+    "likes": 1500,
+    "recipes": [
+      {
+        "id": "r1",
+        "name": "Chingri Bhorta",
+        "picture": "https://as1.ftcdn.net/v2/jpg/04/89/23/52/1000_F_489235273_eWvR6MwU2D9mOR3dI5DOURyplmLhTYuD.jpg",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add prawns, green chili, salt, and turmeric and cook for 3-4 minutes.\n3. Mash the prawns and mix with fried onions, chili, and coriander leaves.\n4. Serve with rice.",
+        "rating": 4.5,
+        "ingredients": [
+          {
+            "name": "Chingri (prawns)",
+            "quantity": "500g"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1 medium-sized"
+          },
+          {
+            "name": "Green chillies",
+            "quantity": "3-4"
+          },
+          {
+            "name": "Mustard oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "name": "Beef Rezala",
+        "picture": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370903.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add beef, ginger-garlic paste, and spices and cook for 5-7 minutes.\n3. Add yogurt and cook for another 10-15 minutes.\n4. Serve hot with rice or naan.",
+        "rating": 4.8,
+        "ingredients": [
+          {
+            "name": "Beef",
+            "quantity": "500g"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ghee",
+            "quantity": "2 tablespoons"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "name": "Chicken Roast",
+        "picture": "https://img.freepik.com/free-photo/delicious-chicken-table_144627-8761.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Marinate chicken with yogurt, spices, and lemon juice for 2-3 hours.\n2. Roast the chicken in the oven at 375°F for 45 minutes.\n3. Serve hot with vegetables and naan.",
+        "rating": 4.2,
+        "ingredients": [
+          {
+            "name": "Chicken",
+            "quantity": "1 whole"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "1 tablespoon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "name": "Mahfuj Alom",
+    "specialty": "Bangladeshi cuisine",
+    "picture": "https://img.freepik.com/free-photo/happy-confident-male-entrepreneur-with-postive-smile-has-beard-mustache-keeps-arms-folded-being-high-spirit-after-successful-meeting-with-partners-poses-against-white-wall-dressed-casually_273609-16228.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+    "bio": "Mahfuj Alom is a Bangladeshi chef who is known for her delicious and authentic Bangladeshi cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+    "likes": 1500,
+    "recipes": [
+      {
+        "id": "r1",
+        "name": "Chingri Bhorta",
+        "picture": "https://as1.ftcdn.net/v2/jpg/04/89/23/52/1000_F_489235273_eWvR6MwU2D9mOR3dI5DOURyplmLhTYuD.jpg",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add prawns, green chili, salt, and turmeric and cook for 3-4 minutes.\n3. Mash the prawns and mix with fried onions, chili, and coriander leaves.\n4. Serve with rice.",
+        "rating": 4.5,
+        "ingredients": [
+          {
+            "name": "Chingri (prawns)",
+            "quantity": "500g"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1 medium-sized"
+          },
+          {
+            "name": "Green chillies",
+            "quantity": "3-4"
+          },
+          {
+            "name": "Mustard oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "name": "Beef Rezala",
+        "picture": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370903.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add beef, ginger-garlic paste, and spices and cook for 5-7 minutes.\n3. Add yogurt and cook for another 10-15 minutes.\n4. Serve hot with rice or naan.",
+        "rating": 4.8,
+        "ingredients": [
+          {
+            "name": "Beef",
+            "quantity": "500g"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ghee",
+            "quantity": "2 tablespoons"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "name": "Chicken Roast",
+        "picture": "https://img.freepik.com/free-photo/delicious-chicken-table_144627-8761.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Marinate chicken with yogurt, spices, and lemon juice for 2-3 hours.\n2. Roast the chicken in the oven at 375°F for 45 minutes.\n3. Serve hot with vegetables and naan.",
+        "rating": 4.2,
+        "ingredients": [
+          {
+            "name": "Chicken",
+            "quantity": "1 whole"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "1 tablespoon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "name": "Irfan Pathan",
+    "specialty": "Bangladeshi cuisine",
+    "picture": "https://img.freepik.com/free-photo/handsome-cheerful-young-man-with-stylish-haircut-dimpled-smile-posing-isolated-against-blank-yellow-wall-dressed-cozy-maroon-sweater-having-confident-look_343059-4609.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+    "bio": "Irfan Pathan is a Bangladeshi chef who is known for her delicious and authentic Bangladeshi cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+    "likes": 1500,
+    "recipes": [
+      {
+        "id": "r1",
+        "name": "Chingri Bhorta",
+        "picture": "https://as1.ftcdn.net/v2/jpg/04/89/23/52/1000_F_489235273_eWvR6MwU2D9mOR3dI5DOURyplmLhTYuD.jpg",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add prawns, green chili, salt, and turmeric and cook for 3-4 minutes.\n3. Mash the prawns and mix with fried onions, chili, and coriander leaves.\n4. Serve with rice.",
+        "rating": 4.5,
+        "ingredients": [
+          {
+            "name": "Chingri (prawns)",
+            "quantity": "500g"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1 medium-sized"
+          },
+          {
+            "name": "Green chillies",
+            "quantity": "3-4"
+          },
+          {
+            "name": "Mustard oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "name": "Beef Rezala",
+        "picture": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370903.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add beef, ginger-garlic paste, and spices and cook for 5-7 minutes.\n3. Add yogurt and cook for another 10-15 minutes.\n4. Serve hot with rice or naan.",
+        "rating": 4.8,
+        "ingredients": [
+          {
+            "name": "Beef",
+            "quantity": "500g"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ghee",
+            "quantity": "2 tablespoons"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "name": "Chicken Roast",
+        "picture": "https://img.freepik.com/free-photo/delicious-chicken-table_144627-8761.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Marinate chicken with yogurt, spices, and lemon juice for 2-3 hours.\n2. Roast the chicken in the oven at 375°F for 45 minutes.\n3. Serve hot with vegetables and naan.",
+        "rating": 4.2,
+        "ingredients": [
+          {
+            "name": "Chicken",
+            "quantity": "1 whole"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "1 tablespoon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "name": "Nahid Khan",
+    "specialty": "Bangladeshi cuisine",
+    "picture": "https://img.freepik.com/free-photo/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded_171337-1267.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+    "bio": "Nahid Khan is a Bangladeshi chef who is known for her delicious and authentic Bangladeshi cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+    "likes": 1500,
+    "recipes": [
+      {
+        "id": "r1",
+        "name": "Chingri Bhorta",
+        "picture": "https://as1.ftcdn.net/v2/jpg/04/89/23/52/1000_F_489235273_eWvR6MwU2D9mOR3dI5DOURyplmLhTYuD.jpg",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add prawns, green chili, salt, and turmeric and cook for 3-4 minutes.\n3. Mash the prawns and mix with fried onions, chili, and coriander leaves.\n4. Serve with rice.",
+        "rating": 4.5,
+        "ingredients": [
+          {
+            "name": "Chingri (prawns)",
+            "quantity": "500g"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1 medium-sized"
+          },
+          {
+            "name": "Green chillies",
+            "quantity": "3-4"
+          },
+          {
+            "name": "Mustard oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "name": "Beef Rezala",
+        "picture": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370903.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add beef, ginger-garlic paste, and spices and cook for 5-7 minutes.\n3. Add yogurt and cook for another 10-15 minutes.\n4. Serve hot with rice or naan.",
+        "rating": 4.8,
+        "ingredients": [
+          {
+            "name": "Beef",
+            "quantity": "500g"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ghee",
+            "quantity": "2 tablespoons"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "name": "Chicken Roast",
+        "picture": "https://img.freepik.com/free-photo/delicious-chicken-table_144627-8761.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Marinate chicken with yogurt, spices, and lemon juice for 2-3 hours.\n2. Roast the chicken in the oven at 375°F for 45 minutes.\n3. Serve hot with vegetables and naan.",
+        "rating": 4.2,
+        "ingredients": [
+          {
+            "name": "Chicken",
+            "quantity": "1 whole"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "1 tablespoon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "name": "Mamun Munshi",
+    "specialty": "Bangladeshi cuisine",
+    "picture": "https://img.freepik.com/free-photo/indoor-shot-displeased-intense-european-man-with-beard-moustache-trendy-glasses-holding-hands-crossed-chest-looking-with-await-being-offended-wanting-hear-apology_176420-22484.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+    "bio": "Mamun Munshi is a Bangladeshi chef who is known for her delicious and authentic Bangladeshi cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+    "likes": 1500,
+    "recipes": [
+      {
+        "id": "r1",
+        "name": "Chingri Bhorta",
+        "picture": "https://as1.ftcdn.net/v2/jpg/04/89/23/52/1000_F_489235273_eWvR6MwU2D9mOR3dI5DOURyplmLhTYuD.jpg",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add prawns, green chili, salt, and turmeric and cook for 3-4 minutes.\n3. Mash the prawns and mix with fried onions, chili, and coriander leaves.\n4. Serve with rice.",
+        "rating": 4.5,
+        "ingredients": [
+          {
+            "name": "Chingri (prawns)",
+            "quantity": "500g"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1 medium-sized"
+          },
+          {
+            "name": "Green chillies",
+            "quantity": "3-4"
+          },
+          {
+            "name": "Mustard oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "name": "Beef Rezala",
+        "picture": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370903.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Heat oil in a pan and fry onions till brown.\n2. Add beef, ginger-garlic paste, and spices and cook for 5-7 minutes.\n3. Add yogurt and cook for another 10-15 minutes.\n4. Serve hot with rice or naan.",
+        "rating": 4.8,
+        "ingredients": [
+          {
+            "name": "Beef",
+            "quantity": "500g"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ghee",
+            "quantity": "2 tablespoons"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "name": "Chicken Roast",
+        "picture": "https://img.freepik.com/free-photo/delicious-chicken-table_144627-8761.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr",
+        "making_details": "1. Marinate chicken with yogurt, spices, and lemon juice for 2-3 hours.\n2. Roast the chicken in the oven at 375°F for 45 minutes.\n3. Serve hot with vegetables and naan.",
+        "rating": 4.2,
+        "ingredients": [
+          {
+            "name": "Chicken",
+            "quantity": "1 whole"
+          },
+          {
+            "name": "Yogurt",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Ginger paste",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Garlic paste",
+            "quantity": "1 tablespoon"
+          }
+        ]
+      }
+    ]
+  }
+]
