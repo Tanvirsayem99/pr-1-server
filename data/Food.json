@@ -5,105 +5,105 @@
           "name": "Hilsha Fish",
           "description": "A popular fish in Bangladesh, cooked in various ways including curries and fried dishes.",
           "region": "National",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ilish_Mach.jpg/1280px-Ilish_Mach.jpg"
+          "image_url": "https://img.freepik.com/free-photo/sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food_1150-26406.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "2",
           "name": "Biryani",
           "description": "A flavorful rice dish cooked with meat, spices, and sometimes vegetables.",
           "region": "National",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Beef_Biryani%2C_Bangladeshi_Style.JPG/1280px-Beef_Biryani%2C_Bangladeshi_Style.JPG"
+          "image_url": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "3",
           "name": "Chapli Kabab",
           "description": "A type of kebab made with ground meat and spices, usually served with naan or rice.",
           "region": "Chittagong",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chapli_Kabab_in_Chandanaish.jpg/800px-Chapli_Kabab_in_Chandanaish.jpg"
+          "image_url": "https://img.freepik.com/free-photo/top-view-delicious-kebab-slate-with-salad-ketchup_23-2148685527.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "4",
           "name": "Pitha",
           "description": "A type of sweet or savory cake made from rice flour and filled with various ingredients such as coconut, date palm jaggery, and sesame seeds.",
           "region": "National",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pitha%2C_a_Bangladeshi_dish.jpg/1024px-Pitha%2C_a_Bangladeshi_dish.jpg"
+          "image_url": "https://img.freepik.com/free-photo/aloo-paratha-gobi-paratha-also-known-as-potato-cauliflower-stuffed-flatbread-dish-originating-from-indian-subcontinent_466689-76164.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "5",
           "name": "Fuchka",
           "description": "A popular street food consisting of crispy shells filled with a spicy mixture of mashed potatoes, chickpeas, and tamarind water.",
           "region": "National",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fuchka%2C_a_popular_street_food_in_Bangladesh.jpg/800px-Fuchka%2C_a_popular_street_food_in_Bangladesh.jpg"
+          "image_url": "https://img.freepik.com/premium-photo/motichoor-laddu_57665-1494.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "6",
           "name": "Beef Tehari",
           "description": "A spicy beef and rice dish, often served with a side of salad and pickles.",
           "region": "Dhaka",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Beef_Tehari.jpg/1280px-Beef_Tehari.jpg"
+          "image_url": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "7",
           "name": "Bhuna Khichuri",
           "description": "A spicy rice and lentil dish, often served with meat and vegetables.",
           "region": "Sylhet",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+          "image_url": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "8",
           "name": "Shorshe Ilish",
           "description": "The turmeric in the sauce gives the dish a vibrant yellow color and a slightly earthy taste.",
           "region": "chadpur",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+          "image_url": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "9",
           "name": "Rasmalai",
           "description": "Rasmalai is a sweet and creamy dessert that is popular in Bangladesh and other South Asian countries. ",
           "region": "cumilla",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+          "image_url": "https://img.freepik.com/premium-photo/bread-rasmalai-is-tweaked-version-traditional-ras-malai-using-bread-slices-instead-paneer_466689-88996.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "10",
           "name": "Chomchom",
           "description": "Chomchom is a popular Bangladeshi sweet that is similar to rasgulla, but with a slightly different texture and taste.",
           "region": "tangail",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+          "image_url": "https://img.freepik.com/free-photo/chinese-food-steamed-stuffed-bun-closeup-photograph-isolated-white-background_1205-1710.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "11",
           "name": "Dhokla",
           "description": "The snack is made from a batter of fermented chickpea flour (besan) and spices, which is then steamed and cut into bite-sized pieces.",
           "region": "Dhaka",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+          "image_url": "https://img.freepik.com/free-photo/mortar-toasted-pastry_1339-5678.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "12",
           "name": "Mishti Doi",
           "description": " It is made by fermenting sweetened milk, which gives it a slightly tangy and creamy taste.",
           "region": "Cumilla",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+          "image_url": "https://img.freepik.com/free-photo/vegetable-soup_144627-18094.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "13",
           "name": "Sorshe Pabda",
           "description": "The fish is marinated with turmeric, salt, and mustard oil, then pan-fried until golden brown.",
           "region": "cos's bazar",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+          "image_url": "https://img.freepik.com/free-photo/close-up-plate-with-chicken-nuggets_23-2147765459.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "14",
           "name": "Shami Kabab",
           "description": "The mixture is shaped into patties, coated in egg, and then pan-fried until crisp and golden brown.",
           "region": "Sylhet",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+          "image_url": "https://img.freepik.com/free-photo/bbq-with-toppings-sausages-dish-open-air_1268-16584.jpg?size=626&ext=jpg&ga=GA1.1.1501440922.1673154209&semt=robertav1_2_sidr"
        },
        {
           "id": "15",
           "name": "Kacchi Biriyani",
           "description": "its made with long-grain basmati rice and marinated meat (usually lamb or goat) that is cooked together with aromatic spices,",
-          "region": "Sylhet",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+          "region": "National",
+          "image_url": "https://img.freepik.com/free-photo/front-view-arrangement-with-delicious-pakistan-meal_23-2148821533.jpg?size=626&ext=jpg&ga=GA1.2.1501440922.1673154209&semt=robertav1_2_sidr"
        }
     ]
        
