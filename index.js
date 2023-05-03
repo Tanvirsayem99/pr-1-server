@@ -4,9 +4,13 @@ var cors = require('cors')
 const port = 5000
 app.use(cors())
 
+const foods = require('./data/Food.json')
 const chefs = require('./data/data.json')
 app.get('/', (req, res) => {
   res.send('Hello World!')
+})
+app.get('/food', (req, res) => {
+  res.send(foods)
 })
 app.get('/data', (req, res) => {
   res.send(chefs)
