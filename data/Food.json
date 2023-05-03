@@ -1,0 +1,54 @@
+
+     [
+       {
+          "id": "1",
+          "name": "Hilsha Fish",
+          "description": "A popular fish in Bangladesh, cooked in various ways including curries and fried dishes.",
+          "region": "National",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ilish_Mach.jpg/1280px-Ilish_Mach.jpg"
+       },
+       {
+          "id": "2",
+          "name": "Biryani",
+          "description": "A flavorful rice dish cooked with meat, spices, and sometimes vegetables.",
+          "region": "National",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Beef_Biryani%2C_Bangladeshi_Style.JPG/1280px-Beef_Biryani%2C_Bangladeshi_Style.JPG"
+       },
+       {
+          "id": "3",
+          "name": "Chapli Kabab",
+          "description": "A type of kebab made with ground meat and spices, usually served with naan or rice.",
+          "region": "Chittagong",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chapli_Kabab_in_Chandanaish.jpg/800px-Chapli_Kabab_in_Chandanaish.jpg"
+       },
+       {
+          "id": "4",
+          "name": "Pitha",
+          "description": "A type of sweet or savory cake made from rice flour and filled with various ingredients such as coconut, date palm jaggery, and sesame seeds.",
+          "region": "National",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pitha%2C_a_Bangladeshi_dish.jpg/1024px-Pitha%2C_a_Bangladeshi_dish.jpg"
+       },
+       {
+          "id": "5",
+          "name": "Fuchka",
+          "description": "A popular street food consisting of crispy shells filled with a spicy mixture of mashed potatoes, chickpeas, and tamarind water.",
+          "region": "National",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fuchka%2C_a_popular_street_food_in_Bangladesh.jpg/800px-Fuchka%2C_a_popular_street_food_in_Bangladesh.jpg"
+       },
+       {
+          "id": "6",
+          "name": "Beef Tehari",
+          "description": "A spicy beef and rice dish, often served with a side of salad and pickles.",
+          "region": "Dhaka",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Beef_Tehari.jpg/1280px-Beef_Tehari.jpg"
+       },
+       {
+          "id": "7",
+          "name": "Bhuna Khichuri",
+          "description": "A spicy rice and lentil dish, often served with meat and vegetables.",
+          "region": "Sylhet",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+       }
+    ]
+       
+ 
