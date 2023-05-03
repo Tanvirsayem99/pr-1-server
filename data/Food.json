@@ -48,6 +48,62 @@
           "description": "A spicy rice and lentil dish, often served with meat and vegetables.",
           "region": "Sylhet",
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+       },
+       {
+          "id": "8",
+          "name": "Shorshe Ilish",
+          "description": "The turmeric in the sauce gives the dish a vibrant yellow color and a slightly earthy taste.",
+          "region": "chadpur",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+       },
+       {
+          "id": "9",
+          "name": "Rasmalai",
+          "description": "Rasmalai is a sweet and creamy dessert that is popular in Bangladesh and other South Asian countries. ",
+          "region": "cumilla",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+       },
+       {
+          "id": "10",
+          "name": "Chomchom",
+          "description": "Chomchom is a popular Bangladeshi sweet that is similar to rasgulla, but with a slightly different texture and taste.",
+          "region": "tangail",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+       },
+       {
+          "id": "11",
+          "name": "Dhokla",
+          "description": "The snack is made from a batter of fermented chickpea flour (besan) and spices, which is then steamed and cut into bite-sized pieces.",
+          "region": "Dhaka",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+       },
+       {
+          "id": "12",
+          "name": "Mishti Doi",
+          "description": " It is made by fermenting sweetened milk, which gives it a slightly tangy and creamy taste.",
+          "region": "Cumilla",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+       },
+       {
+          "id": "13",
+          "name": "Sorshe Pabda",
+          "description": "The fish is marinated with turmeric, salt, and mustard oil, then pan-fried until golden brown.",
+          "region": "cos's bazar",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+       },
+       {
+          "id": "14",
+          "name": "Shami Kabab",
+          "description": "The mixture is shaped into patties, coated in egg, and then pan-fried until crisp and golden brown.",
+          "region": "Sylhet",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
+       },
+       {
+          "id": "15",
+          "name": "Kacchi Biriyani",
+          "description": "its made with long-grain basmati rice and marinated meat (usually lamb or goat) that is cooked together with aromatic spices,",
+          "region": "Sylhet",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bhuna_Khichuri_with_Beef.jpg/800px-Bhuna_Khichuri_with_Beef.jpg"
        }
     ]
        
